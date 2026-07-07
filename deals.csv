@@ -1,0 +1,56 @@
+deal_id,announce_date,target,acquirer_raw,acquirer_canonical,acquirer_type,deal_type,sector,value_brl_mm,stake_pct,source,source_url,notes
+1,2025-07-03,Dunas Energia,Sigma Investimentos,Sigma Investimentos,PE,M&A,Energia,,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/1,Amostra sintetica. Valor nao divulgado pelas partes.
+2,2025-07-23,Zenite Servicos,Ômega Partners,Omega Partners,PE,VC,Servicos,77,5,SYNTHETIC-EXAMPLE,https://example.com/synthetic/2,Amostra sintetica. Situacao especial; tese de turnaround.
+3,2025-07-29,Horizonte Industrial,Sigma Investimentos,Sigma Investimentos,PE,PE,Industria,49,70,SYNTHETIC-EXAMPLE,https://example.com/synthetic/3,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+4,2025-07-30,Tucano Educa,Escritorio Mu,Escritorio Mu,FO,divida,Educacao,75,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/4,Amostra sintetica.
+5,2025-08-05,Bandeira Log,Alpha Cap. Partners,Alpha Capital Partners,PE,divida,Transporte e logistica,340,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/5,Amostra sintetica. Consolidacao setorial; multiplo aparentemente esticado.
+6,2025-08-05,Horizonte Saude,Escritorio Mu,Escritorio Mu,FO,VC,Saude,22,14,SYNTHETIC-EXAMPLE,https://example.com/synthetic/6,Amostra sintetica. Consolidacao setorial; multiplo aparentemente esticado.
+7,2025-08-07,Aurora Tech,Gamma Capital,Gamma Capital,PE,PE,Tecnologia,50,51,SYNTHETIC-EXAMPLE,https://example.com/synthetic/7,Amostra sintetica. Situacao especial; tese de turnaround.
+8,2025-08-20,Bandeira Agro,Theta Ventures,Theta Ventures,VC,VC,Agronegocio,,28,SYNTHETIC-EXAMPLE,https://example.com/synthetic/8,Amostra sintetica. Valor nao divulgado pelas partes.
+9,2025-08-24,Verde Servicos,Tau Capital,Tau Capital,PE,divida,Servicos,120,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/9,Amostra sintetica.
+10,2025-08-31,Horizonte Servicos,Kappa Ventures,Kappa Ventures,VC,VC,Servicos,36,7,SYNTHETIC-EXAMPLE,https://example.com/synthetic/10,Amostra sintetica. Rodada minoritaria; sem controle.
+11,2025-09-07,Ipe Educa,Omega Partners,Omega Partners,PE,PE,Educacao,59,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/11,Amostra sintetica.
+12,2025-09-26,Serrano Tech,Lambda Ventures,Lambda Ventures,VC,VC,Tecnologia,67,10,SYNTHETIC-EXAMPLE,https://example.com/synthetic/12,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+13,2025-10-13,Xingu Saude,Alpha Cap. Partners,Alpha Capital Partners,PE,M&A,Saude,180,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/13,Amostra sintetica. Consolidacao setorial; multiplo aparentemente esticado.
+14,2025-10-19,Litoral Agro,Lambda Ventures,Lambda Ventures,VC,VC,Agronegocio,37,7,SYNTHETIC-EXAMPLE,https://example.com/synthetic/14,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+15,2025-10-25,Horizonte Foods,Phi Ventures,Phi Ventures,VC,VC,Alimentos e bebidas,,26,SYNTHETIC-EXAMPLE,https://example.com/synthetic/15,Amostra sintetica. Valor nao divulgado pelas partes.
+16,2025-10-26,Cerrado Educa,Alpha Capital Partners,Alpha Capital Partners,PE,M&A,Educacao,30,80,SYNTHETIC-EXAMPLE,https://example.com/synthetic/16,Amostra sintetica. Rodada minoritaria; sem controle.
+17,2025-10-27,Norte Varejo,Kappa Ventures,Kappa Ventures,VC,VC,Varejo,45,27,SYNTHETIC-EXAMPLE,https://example.com/synthetic/17,Amostra sintetica. Consolidacao setorial; multiplo aparentemente esticado.
+18,2025-10-31,Ipe Varejo,Gamma Capital,Gamma Capital,PE,divida,Varejo,230,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/18,Amostra sintetica. Plataforma de buy-and-build; observar alavancagem pos-deal.
+19,2025-11-12,Farol Energia,Alpha Cap. Partners,Alpha Capital Partners,PE,divida,Energia,97,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/19,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+20,2025-11-13,Raizes Educa,Lambda Ventures,Lambda Ventures,VC,VC,Educacao,40,11,SYNTHETIC-EXAMPLE,https://example.com/synthetic/20,Amostra sintetica. Situacao especial; tese de turnaround.
+21,2025-11-13,Raizes Log,Grupo Delta S.A.,Grupo Delta,Estrategico,M&A,Transporte e logistica,66,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/21,Amostra sintetica. Plataforma de buy-and-build; observar alavancagem pos-deal.
+22,2025-11-13,Bandeira Log,Theta Ventures,Theta Ventures,VC,PE,Transporte e logistica,,51,SYNTHETIC-EXAMPLE,https://example.com/synthetic/22,Amostra sintetica. Valor nao divulgado pelas partes.
+23,2025-11-20,Palmares Saude,Sigma Investimentos,Sigma Investimentos,PE,M&A,Saude,110,80,SYNTHETIC-EXAMPLE,https://example.com/synthetic/23,Amostra sintetica. Plataforma de buy-and-build; observar alavancagem pos-deal.
+24,2025-12-01,Raizes Industrial,Ômega Partners,Omega Partners,PE,distressed,Industria,150,51,SYNTHETIC-EXAMPLE,https://example.com/synthetic/24,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+25,2025-12-19,Cerrado Industrial,Omega Partners,Omega Partners,PE,M&A,Industria,130,51,SYNTHETIC-EXAMPLE,https://example.com/synthetic/25,Amostra sintetica. Rodada minoritaria; sem controle.
+26,2025-12-22,Dunas Educa,Escritorio Mu,Escritorio Mu,FO,M&A,Educacao,450,70,SYNTHETIC-EXAMPLE,https://example.com/synthetic/26,Amostra sintetica. Consolidacao setorial; multiplo aparentemente esticado.
+27,2025-12-29,Oceano Varejo,Lambda Ventures,Lambda Ventures,VC,M&A,Varejo,,70,SYNTHETIC-EXAMPLE,https://example.com/synthetic/27,Amostra sintetica. Valor nao divulgado pelas partes.
+28,2026-01-11,Ipe Saude,Kappa Ventures,Kappa Ventures,VC,VC,Saude,,25,SYNTHETIC-EXAMPLE,https://example.com/synthetic/28,Amostra sintetica. Valor nao divulgado pelas partes.
+29,2026-01-21,Marimba Servicos,Beta Equity,Beta Equity,PE,PE,Servicos,330,80,SYNTHETIC-EXAMPLE,https://example.com/synthetic/29,Amostra sintetica. Situacao especial; tese de turnaround.
+30,2026-01-24,Buriti Agro,Omega Partners,Omega Partners,PE,M&A,Agronegocio,,80,SYNTHETIC-EXAMPLE,https://example.com/synthetic/30,Amostra sintetica. Valor nao divulgado pelas partes.
+31,2026-01-27,Xingu Tech,Escritorio Mu,Escritorio Mu,FO,divida,Tecnologia,190,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/31,Amostra sintetica. Rodada minoritaria; sem controle.
+32,2026-01-31,Horizonte Educa,Beta Equity Ltda,Beta Equity,PE,PE,Educacao,290,51,SYNTHETIC-EXAMPLE,https://example.com/synthetic/32,Amostra sintetica. Rodada minoritaria; sem controle.
+33,2026-02-06,Estrela Energia,Grupo Delta,Grupo Delta,Estrategico,M&A,Energia,86,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/33,Amostra sintetica. Rodada minoritaria; sem controle.
+34,2026-02-14,Farol Educa,Lambda Ventures,Lambda Ventures,VC,VC,Educacao,,19,SYNTHETIC-EXAMPLE,https://example.com/synthetic/34,Amostra sintetica. Valor nao divulgado pelas partes.
+35,2026-02-18,Jacaranda Tech,Theta Ventures,Theta Ventures,VC,VC,Tecnologia,8,27,SYNTHETIC-EXAMPLE,https://example.com/synthetic/35,Amostra sintetica.
+36,2026-02-21,Serrano Foods,Alpha Capital Partners,Alpha Capital Partners,PE,PE,Alimentos e bebidas,,60,SYNTHETIC-EXAMPLE,https://example.com/synthetic/36,Amostra sintetica. Valor nao divulgado pelas partes.
+37,2026-02-26,Horizonte Servicos,Beta Equity,Beta Equity,PE,M&A,Servicos,,80,SYNTHETIC-EXAMPLE,https://example.com/synthetic/37,Amostra sintetica. Valor nao divulgado pelas partes.
+38,2026-03-13,Norte Varejo,Gamma Capital,Gamma Capital,PE,distressed,Varejo,170,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/38,Amostra sintetica. Rodada minoritaria; sem controle.
+39,2026-03-18,Cerrado Agro,Gamma Capital,Gamma Capital,PE,PE,Agronegocio,200,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/39,Amostra sintetica. Situacao especial; tese de turnaround.
+40,2026-03-18,Norte Foods,Beta Equity Ltda,Beta Equity,PE,M&A,Alimentos e bebidas,200,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/40,Amostra sintetica. Plataforma de buy-and-build; observar alavancagem pos-deal.
+41,2026-04-03,Raizes Varejo,Grupo Delta,Grupo Delta,Estrategico,M&A,Varejo,,60,SYNTHETIC-EXAMPLE,https://example.com/synthetic/41,Amostra sintetica. Valor nao divulgado pelas partes.
+42,2026-04-03,Aurora Educa,Omega Partners,Omega Partners,PE,M&A,Educacao,,80,SYNTHETIC-EXAMPLE,https://example.com/synthetic/42,Amostra sintetica. Valor nao divulgado pelas partes.
+43,2026-04-13,Oceano Agro,Phi Ventures,Phi Ventures,VC,VC,Agronegocio,30,12,SYNTHETIC-EXAMPLE,https://example.com/synthetic/43,Amostra sintetica. Consolidacao setorial; multiplo aparentemente esticado.
+44,2026-04-17,Cerrado Agro,Sigma Investimentos,Sigma Investimentos,PE,M&A,Agronegocio,80,51,SYNTHETIC-EXAMPLE,https://example.com/synthetic/44,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+45,2026-04-18,Horizonte Varejo,Alpha Cap. Partners,Alpha Capital Partners,PE,M&A,Varejo,,60,SYNTHETIC-EXAMPLE,https://example.com/synthetic/45,Amostra sintetica. Valor nao divulgado pelas partes.
+46,2026-04-19,Tucano Varejo,Alpha Capital,Alpha Capital Partners,PE,M&A,Varejo,140,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/46,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+47,2026-04-29,Oceano Agro,Holding Zeta,Holding Zeta,Estrategico,PE,Agronegocio,230,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/47,Amostra sintetica. Plataforma de buy-and-build; observar alavancagem pos-deal.
+48,2026-05-02,Cerrado Agro,Grupo Delta S.A.,Grupo Delta,Estrategico,VC,Agronegocio,12,17,SYNTHETIC-EXAMPLE,https://example.com/synthetic/48,Amostra sintetica. Situacao especial; tese de turnaround.
+49,2026-05-05,Horizonte Foods,Alpha Capital,Alpha Capital Partners,PE,M&A,Alimentos e bebidas,140,100,SYNTHETIC-EXAMPLE,https://example.com/synthetic/49,Amostra sintetica. Rodada minoritaria; sem controle.
+50,2026-05-07,Verde Educa,Gamma Capital,Gamma Capital,PE,divida,Educacao,24,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/50,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.
+51,2026-05-19,Tucano Varejo,Beta Equity,Beta Equity,PE,M&A,Varejo,220,51,SYNTHETIC-EXAMPLE,https://example.com/synthetic/51,Amostra sintetica.
+52,2026-06-07,Raizes Servicos,Beta Equity Ltda,Beta Equity,PE,PE,Servicos,93,60,SYNTHETIC-EXAMPLE,https://example.com/synthetic/52,Amostra sintetica. Situacao especial; tese de turnaround.
+53,2026-06-09,Guara Educa,FO Ikaros,Family Office Ikaros,FO,divida,Educacao,,,SYNTHETIC-EXAMPLE,https://example.com/synthetic/53,Amostra sintetica. Valor nao divulgado pelas partes.
+54,2026-06-12,Buriti Servicos,Sigma Investimentos,Sigma Investimentos,PE,M&A,Servicos,24,60,SYNTHETIC-EXAMPLE,https://example.com/synthetic/54,Amostra sintetica. Situacao especial; tese de turnaround.
+55,2026-06-22,Aurora Energia,Alpha Cap. Partners,Alpha Capital Partners,PE,M&A,Energia,68,70,SYNTHETIC-EXAMPLE,https://example.com/synthetic/55,Amostra sintetica. Credito privado; foco em geracao de caixa do alvo.

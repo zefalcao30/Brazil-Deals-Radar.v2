@@ -1,0 +1,6 @@
+# Deal-flow radar — minimal, deliberately small footprint.
+# add_deal.py itself uses only the Python standard library (no entry here needed).
+# These are for the analysis notebook only.
+pandas>=2.0
+matplotlib>=3.7
+jupyter>=1.0
